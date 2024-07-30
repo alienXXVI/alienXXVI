@@ -13,9 +13,9 @@ I'm Aliana, a Computer Science student at University of Western Paraná and I lo
 </p> --->
 
 <h1 align="center">Hi there👋, I'm Aliana</h1>
-<h3 align="center">Computer Science student</h3>
+<h3 align="center">Computer Science Student</h3>
 
-I volunteer on projects at the Itaipu Technology Park, where I became familiar with game development tools such as Unity and Godot Engine. Additionally, I participated in Programming Marathons and the ICPC Summer School, strengthening my knowledge in C++. I seek the opportunity to further improve and contribute to technology.
+Future developer with a passion for all things tech. I've got experience coding in C and I'm currently diving deep into VR. My studies cover everything from the nitty-gritty of computers (compilers, OS) to practical stuff like data science and cybersecurity. Looking to apply what I've learned and collaborate on cool projects. Hit me up!
 
 - 📫 How to reach me **aliana.wkssg@gmail.com**
 
