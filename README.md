@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋
 
-I'm Aliana, a Computer Science student at University of Western Paraná and I love learning and staying updated on technology. I am interested in back-end programming, development, game creation, and much more.
+I'm Aliana, a Computer Science student at University of Western Paraná and I love learning and staying updated on technology.
 
 <h3>Things I code with</h3>
 
@@ -15,7 +15,7 @@ I'm Aliana, a Computer Science student at University of Western Paraná and I lo
 <h1 align="center">Hi there👋, I'm Aliana</h1>
 <h3 align="center">Computer Science Student</h3>
 
-Future developer with a passion for all things tech. I've got experience coding in C and I'm currently diving deep into VR. My studies cover everything from the nitty-gritty of computers (compilers, OS) to practical stuff like data science and cybersecurity. Looking to apply what I've learned and collaborate on cool projects. Hit me up!
+I'm currently doing an internship at Itaipu Binacional with a focus on BI tools and project planning. I’ve worked with VR and Unity during a stint in the Computer Graphics Lab and have experience in C++ through programming marathons and the ICPC Summer School. I’m into networks, computation theory, and exploring modern tech like quantum computing.
 
 - 📫 How to reach me **aliana.wkssg@gmail.com**
 
